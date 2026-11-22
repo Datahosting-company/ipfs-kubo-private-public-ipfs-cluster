@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 07:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 07:19:00 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,8 +62,20 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 20 Nov 2026 13:29:58 +0000</pubDate>
+      <pubDate>Sat, 21 Nov 2026 11:18:52 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>ECB seeks industry partners for tokenized deposits, securities experiments</title>
+      <link>https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Sat, 21 Nov 2026 09:48:56 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;ECB seeks industry partners for tokenized deposits, securities experiments&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M34BTQXP52VJEXVV822SS5QM/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-2.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Industry groups have until Dec. 11 to apply for the ECB’s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling ba...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -100,30 +112,6 @@
       <guid>https://decrypt.co/383608/binance-wins-6-5b-freezing-order-over-hack-that-can-be-served-via-the-blockchain</guid>
       <pubDate>Thu, 19 Nov 2026 12:59:14 +0000</pubDate>
       <description>An Abu Dhabi court's worldwide injunction targets the unknown hackers, backed by a &quot;living list&quot; of 26,000 wallets holding stolen funds.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>IOSCO warns quantum upgrades could slow blockchains, leave security gaps</title>
-      <link>https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 19 Nov 2026 10:32:05 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;IOSCO warns quantum upgrades could slow blockchains, leave security gaps&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SM359KWG92A5Y8EAMD2EM8/hi-a-simple-breakdown-bitcoins-post-quantum-migration.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks</title>
-      <link>https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks</link>
-      <guid>https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks</guid>
-      <pubDate>Wed, 18 Nov 2026 18:16:02 +0000</pubDate>
-      <description>Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale.</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -652,6 +640,18 @@
       <guid>https://blog.ethereum.org/en/2016/05/09/on-settlement-finality</guid>
       <pubDate>Mon, 09 May 2016 08:07:25 GMT</pubDate>
       <description>Special thanks to Tim Swanson for reviewing, and for further discussions on the arguments in his original paper on settlement finality.  Recently one of the major disputes in ongoing debate between public blockchain and permissioned blockchain proponents is the issue of settlement finality. One of the simple properties that...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum Foundation and Wanxiang Blockchain Labs announce a blockbuster event combining Devcon2 and the 2nd Global Blockchain Summit in Shanghai, September 19–24, 2016</title>
+      <link>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</link>
+      <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
+      <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
+      <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
