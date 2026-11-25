@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 10:18:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:00:33 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,8 +62,32 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Tue, 24 Nov 2026 06:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 05:50:43 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto</title>
+      <link>https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto</link>
+      <guid>https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto</guid>
+      <pubDate>Tue, 24 Nov 2026 13:46:03 +0000</pubDate>
+      <description>The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi.</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return</title>
+      <link>https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Tue, 24 Nov 2026 11:40:33 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin dipped on Huang’s Nvidia exit but jumped 5% on his return&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KK0Y54WJHFMWNR7WW9P8FT/hi-crypto-trading-basics-a-beginners-guide-to-cryptocurrency-order-types1-4.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Bitcoin rose about 5% on Jensen Huang’s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -76,42 +100,6 @@
       <guid>https://decrypt.co/383775/czech-authorities-charge-15-over-12m-unlicensed-crypto-casino</guid>
       <pubDate>Mon, 23 Nov 2026 13:08:23 +0000</pubDate>
       <description>Investigators say &quot;decentralized&quot; casino BETFIN was run centrally, inflated its player numbers with bots and made $12 million illegally.</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>ECB to let banks pledge more tokenized securities as collateral</title>
-      <link>https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/ecb-expands-eurosystem-collateral-tokenized-securities?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 23 Nov 2026 11:49:38 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;ECB to let banks pledge more tokenized securities as collateral&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M39CZ68WWY72HF76F9JQMDJD/hi-what-is-a-decentralized-money-market-and-eu-stablecoin-3.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The ECB aims to start accepting securities issued on platforms licensed under the EU’s distributed ledger pilot program in June 2027.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Half of wallets on Trump’s dinner list got tokens from non-US exchanges</title>
-      <link>https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Mon, 23 Nov 2026 00:53:49 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Half of wallets on Trump’s dinner list got tokens from non-US exchanges&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M82Y4PMA2YN6DTA00JY4GVH4/hi-crypto-charts-101-how-to-read-cryptocurrency-charts-trump.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Public Citizen traced 66 of 130 qualifying wallets to exchanges that restrict US users, raising questions over who is attending Trump’s memecoin dinner on Sunday. &lt;...</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>The future of onchain FX could start with users, not institutional liquidity</title>
-      <link>https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Sun, 22 Nov 2026 14:30:00 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;The future of onchain FX could start with users, not institutional liquidity&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HXR8PX0V9ND83QRBCRCYJB/hi-international-association-of-trusted-blockchain-applications-dollar.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.&lt;/p&gt;</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -652,6 +640,18 @@
       <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
       <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
       <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum Partners with R3CEV on Lizardcoin, Bringing Together the Best of Centralized Finance and Blockchain Technology</title>
+      <link>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</link>
+      <guid>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</guid>
+      <pubDate>Fri, 01 Apr 2016 08:43:10 GMT</pubDate>
+      <description>The Ethereum Foundation has announced that it will be working with the New York-based banking consortium R3CEV on creating a new blockchain-based cryptocurrency, Lizardcoin, which aims to showcase the benefits of blockchain technology as well as the consortium's ability to bring the technology to institutional clients and the regulation-loving masses...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
