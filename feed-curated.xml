@@ -5,7 +5,7 @@
     <link>https://datahosting.company</link>
     <description>Curated news about IPFS, Web3, distributed storage, and decentralized infrastructure</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 08:58:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 08:19:28 +0000</lastBuildDate>
     <category>IPFS</category>
     <category>InterPlanetary File System</category>
     <category>Content Addressed Storage</category>
@@ -62,8 +62,32 @@
       <title>Here’s what happened in crypto today</title>
       <link>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
       <guid>https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Fri, 27 Nov 2026 06:00:00 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 22:12:51 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Here’s what happened in crypto today&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>China sets March 2027 rollout for blockchain identity regulations</title>
+      <link>https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 27 Nov 2026 17:37:23 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;China sets March 2027 rollout for blockchain identity regulations&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EVTBT6HP6DPAEHWFE95N9V/stronger-china-flag-overlay.jpeg&quot; /&gt;&lt;/p&gt;&lt;p&gt;China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.&lt;/p&gt;</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Austria-supervised crypto firms report 20.4B euros in H1 trading volume</title>
+      <link>https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
+      <guid>https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
+      <pubDate>Fri, 27 Nov 2026 12:20:00 +0000</pubDate>
+      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Austria-supervised crypto firms report 20.4B euros in H1 trading volume&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EEEQZE84TRC860G2SR2NYP/hi-electricity-administrative-reform-new-tax-rules-how-blockchain-is-reaching-austria-copy.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;About 74% of accounts were based in other EEA countries, highlighting the market’s cross-border nature and putting Europe’s supervisor...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -76,42 +100,6 @@
       <guid>https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
       <pubDate>Thu, 26 Nov 2026 21:13:53 +0000</pubDate>
       <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UK is ‘getting it wrong’ on DeFi regulation, says Coinbase&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CJBJZM1MK2FZDDPQ6PK8RE/token-character-pushing-gavel.png&quot; /&gt;&lt;/p&gt;&lt;p&gt;Coinbase and Stand With Crypto argue that the FCA’s proposed DeFi rules could leave UK users without regulated access to decentralized finance.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend</title>
-      <link>https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 26 Nov 2026 09:42:34 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report</title>
-      <link>https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/uk-fca-defi-regulation-binance-hack?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 26 Nov 2026 05:53:08 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;UK regulator plans tighter DeFi rules, citing $6.3B Binance hack: Report&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8B66VX8B7TPTQ4GVF2CXSJF/blockchainweekuk-fca-1.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;North Korea-linked hackers used DeFi protocols to launder stolen Binance funds, while US prosecutors moved to recover more than $1.1 billion in crypto.&lt;/p&gt;</description>
-      <category>blockchain</category>
-      <category>cryptocurrency</category>
-      <category>Bitcoin</category>
-      <category>Ethereum</category>
-      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
-    </item>
-    <item>
-      <title>Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions</title>
-      <link>https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</link>
-      <guid>https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&amp;utm_medium=rss&amp;utm_campaign=rss_partner_inbound</guid>
-      <pubDate>Thu, 26 Nov 2026 04:24:45 +0000</pubDate>
-      <description>&lt;p style=&quot;float: right; margin: 0 0 10px 15px; width: 240px;&quot;&gt;&lt;img alt=&quot;Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions&quot; class=&quot;type:primaryImage&quot; src=&quot;https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AYBSWPYBQEZSFKNS3QMFEP/hi-fungible-tokens-turn-monopoly-money-into-cryptocurrency-sec.jpg&quot; /&gt;&lt;/p&gt;&lt;p&gt;US Senators Elizabeth Warren and Chris Van Hollen, among others, have taken aim at two recent SEC efforts to ease regulatory requirements for the crypto industry.&lt;/...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
@@ -652,6 +640,18 @@
       <guid>https://blog.ethereum.org/en/2016/04/05/devcon2-and-blockchain-summit-shanghai-september2016</guid>
       <pubDate>Tue, 05 Apr 2016 09:39:37 GMT</pubDate>
       <description>[Last update: July 5, 2016]  The Ethereum Foundation and Wanxiang Blockchain Labs are excited to jointly announce the International Blockchain Week in Shanghai, which will take place at Hyatt on the Bund, September 19–24, 2016. Both Ethereum’s Devcon and Wanxiang Blockchain Labs’ Global Blockchain Summit were sold out last...</description>
+      <category>blockchain</category>
+      <category>cryptocurrency</category>
+      <category>Bitcoin</category>
+      <category>Ethereum</category>
+      <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">DataHosting.Company Curator</dc:creator>
+    </item>
+    <item>
+      <title>Ethereum Partners with R3CEV on Lizardcoin, Bringing Together the Best of Centralized Finance and Blockchain Technology</title>
+      <link>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</link>
+      <guid>https://blog.ethereum.org/en/2016/04/01/ethereum-partners-with-r3cev-on-lizardcoin-bringing-together-the-best-of-centralized-finance-and-blockchain-technology</guid>
+      <pubDate>Fri, 01 Apr 2016 08:43:10 GMT</pubDate>
+      <description>The Ethereum Foundation has announced that it will be working with the New York-based banking consortium R3CEV on creating a new blockchain-based cryptocurrency, Lizardcoin, which aims to showcase the benefits of blockchain technology as well as the consortium's ability to bring the technology to institutional clients and the regulation-loving masses...</description>
       <category>blockchain</category>
       <category>cryptocurrency</category>
       <category>Bitcoin</category>
